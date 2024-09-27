@@ -1,0 +1,68 @@
+name: Create Release for Map Folders
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  issues: write
+  packages: write
+  pull-requests: write
+  deployments: write
+
+
+jobs:
+  create_releases:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup utilities
+      run: sudo apt-get install zip jq python3 -y && pip install PyGithub && echo "${{ secrets.TOKEN_GITHUB }}" > TOKEN
+
+    - name: Install GitHub CLI
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Authenticate GitHub CLI
+      run: gh auth login --with-token < TOKEN
+
+
+    - name: Compress and archive map folders
+      continue-on-error: true
+      env:
+        TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+      run: |
+        rm -rf zips/
+        python3 scripts/zip_maps.py
+
+    - name: Generate new JSON file
+      env:
+        TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+      run: |
+        python3 scripts/generate_json_file.py
+    
+    - name: Create new releases and move payload file
+      env:
+        TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+      run: |
+        python3 scripts/push_github.py
+        
+
+    - name: Commit and push maps.json to the repository
+      continue-on-error: true
+      run: |
+        ls -la
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add files.json
+        git add maps.json
+        git add messages.json 
+        git commit -m "Add index.json with release information"
+        git push origin ${{ github.ref }}
