@@ -47,4 +47,4 @@ Une fois cette étape accomplie, relancez le serveur.
 
 Une vidéo est disponible sur Youtube, rendez-vous sur ce lien [https://youtube.com/watch?v=JUsEVdwfxfk](https://youtube.com/watch?v=JUsEVdwfxfk)
 
-@[youtube]("JUsEVdwfxfk")
+@[youtube](JUsEVdwfxfk)
