@@ -64,5 +64,5 @@ jobs:
         git add files.json
         git add maps.json
         git add messages.json 
-        git commit -m "Add index.json with release information"
+        git commit -m "Generated maps, files and messages JSON files"
         git push origin ${{ github.ref }}
