@@ -24,12 +24,15 @@ maps_dir = "./maps"
 zip_dir = "./zips"
 files_dir = "./files"
 messages_dir = "./messages"
+blog_dir = "./blog"
 author_name = "Synchroneyes"
 repository_name = "mineralcontest-static-backend"
+domain_name = "api.mc.monvoisin-kevin.fr"
 
 maps = []
 files = {}
 messages = {}
+blog = []
 
 for folder_name in os.listdir(maps_dir):
     folder_path = os.path.join(maps_dir, folder_name)
@@ -86,13 +89,16 @@ for plugin_version in os.listdir(messages_dir):
         
         messages[plugin_version].append(content)
 
-payload = {
-    "maps": maps,
-    "files": files,
-    "messages": messages
-}
+for article in os.listdir(blog_dir):
+    print(article)
+    _article = {
+        "article_title": article.replace(".md", "").replace("_", " ").replace('-', ' ').capitalize(),
+        "article_url": f"https://{domain_name}/blog/{article}",
+    }
+    blog.append(_article)
 
 
 write_json_file(maps, "maps")
 write_json_file(files, "files")
 write_json_file(messages, "messages")
+write_json_file(blog, "blog")
