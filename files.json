@@ -6,6 +6,7 @@
             "file_size": "3679947",
             "file_size_display": "3.51 MB",
             "file_version": "2.8.4.1",
+            "file_server_version": "1.19.4",
             "md5_signature": "2f81dd397389d66cd6558f97bf808521"
         },
         "2.1.5": {
@@ -14,6 +15,7 @@
             "file_size": "2420482",
             "file_size_display": "2.31 MB",
             "file_version": "2.1.5",
+            "file_server_version": "1.15.2",
             "md5_signature": "6e8386cb9cc447f11c03cacc9802da39"
         },
         "2.0": {
@@ -22,6 +24,7 @@
             "file_size": "2340707",
             "file_size_display": "2.23 MB",
             "file_version": "2.0",
+            "file_server_version": "1.15.2",
             "md5_signature": "9c43f7e18eb65d04df8e777f7d940d53"
         },
         "2.0.4": {
@@ -30,6 +33,7 @@
             "file_size": "2353980",
             "file_size_display": "2.24 MB",
             "file_version": "2.0.4",
+            "file_server_version": "1.15.2",
             "md5_signature": "baf9d8b912b4f1835680410242a11844"
         },
         "2.8.4.2": {
@@ -38,6 +42,7 @@
             "file_size": "3679951",
             "file_size_display": "3.51 MB",
             "file_version": "2.8.4.2",
+            "file_server_version": "1.19.4",
             "md5_signature": "31644154d2278316bf1851ba6c7c40e1"
         },
         "2.2.3": {
@@ -46,6 +51,7 @@
             "file_size": "2479061",
             "file_size_display": "2.36 MB",
             "file_version": "2.2.3",
+            "file_server_version": "1.15.2",
             "md5_signature": "338c80ce5dbb598b91cb033563fba01b"
         },
         "2.0.6": {
@@ -54,6 +60,7 @@
             "file_size": "2363644",
             "file_size_display": "2.25 MB",
             "file_version": "2.0.6",
+            "file_server_version": "1.15.2",
             "md5_signature": "b890846361f33a70653fdaec9e8bf9b9"
         },
         "2.8.4.5": {
@@ -62,6 +69,7 @@
             "file_size": "3681481",
             "file_size_display": "3.51 MB",
             "file_version": "2.8.4.5",
+            "file_server_version": "1.19.4",
             "md5_signature": "2e2e0787ee5a46d69cab34073a9989ab"
         },
         "2.0.1": {
@@ -70,6 +78,7 @@
             "file_size": "2340696",
             "file_size_display": "2.23 MB",
             "file_version": "2.0.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "84a36979da144a1ea8bb6b92b67e7e70"
         },
         "2.8.4": {
@@ -78,6 +87,7 @@
             "file_size": "3652420",
             "file_size_display": "3.48 MB",
             "file_version": "2.8.4",
+            "file_server_version": "1.19.4",
             "md5_signature": "20886fc77fa5a4dad533779c3584278f"
         },
         "2.7.3": {
@@ -86,6 +96,7 @@
             "file_size": "2666424",
             "file_size_display": "2.54 MB",
             "file_version": "2.7.3",
+            "file_server_version": "1.16.3",
             "md5_signature": "b6433fc9dd3b839c1b2c1ad220ecf5e5"
         },
         "2.0.7": {
@@ -94,6 +105,7 @@
             "file_size": "2363350",
             "file_size_display": "2.25 MB",
             "file_version": "2.0.7",
+            "file_server_version": "1.15.2",
             "md5_signature": "e459fac57831bdf50c62b67086030051"
         },
         "2.4.9": {
@@ -102,6 +114,7 @@
             "file_size": "2595378",
             "file_size_display": "2.48 MB",
             "file_version": "2.4.9",
+            "file_server_version": "1.15.2",
             "md5_signature": "e7c063f3cdba632cde3c0c23aba755d3"
         },
         "2.1.1": {
@@ -110,6 +123,7 @@
             "file_size": "2399121",
             "file_size_display": "2.29 MB",
             "file_version": "2.1.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "a4af24e1d7117eb8c4867864c1b3a2c5"
         },
         "2.4.8": {
@@ -118,6 +132,7 @@
             "file_size": "2588114",
             "file_size_display": "2.47 MB",
             "file_version": "2.4.8",
+            "file_server_version": "1.15.2",
             "md5_signature": "6843f0dbbd6fb821685451c6db58d49f"
         },
         "2.4.7.1": {
@@ -126,6 +141,7 @@
             "file_size": "2581426",
             "file_size_display": "2.46 MB",
             "file_version": "2.4.7.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "69331200c270275030785672208b65ab"
         },
         "2.4.8.1": {
@@ -134,6 +150,7 @@
             "file_size": "2588543",
             "file_size_display": "2.47 MB",
             "file_version": "2.4.8.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "8b61e2603e95e1abe6ba1f5555c26fec"
         },
         "2.4.3": {
@@ -142,6 +159,7 @@
             "file_size": "2532741",
             "file_size_display": "2.42 MB",
             "file_version": "2.4.3",
+            "file_server_version": "1.15.2",
             "md5_signature": "ed74720e0a499949efe77d2d533cb4d5"
         },
         "2.8.4.4": {
@@ -150,6 +168,7 @@
             "file_size": "3681320",
             "file_size_display": "3.51 MB",
             "file_version": "2.8.4.4",
+            "file_server_version": "1.19.4",
             "md5_signature": "fb665499996d8d152cb85ac067a5833f"
         },
         "2.4.8.2": {
@@ -158,6 +177,7 @@
             "file_size": "2588931",
             "file_size_display": "2.47 MB",
             "file_version": "2.4.8.2",
+            "file_server_version": "1.15.2",
             "md5_signature": "26ad8b8c62f3179a1b9274c6a535965e"
         },
         "2.4.7": {
@@ -166,6 +186,7 @@
             "file_size": "2581575",
             "file_size_display": "2.46 MB",
             "file_version": "2.4.7",
+            "file_server_version": "1.15.2",
             "md5_signature": "9a4dc4caad475d7defaadede201ebdb2"
         },
         "2.0.5": {
@@ -174,6 +195,7 @@
             "file_size": "2353964",
             "file_size_display": "2.24 MB",
             "file_version": "2.0.5",
+            "file_server_version": "1.15.2",
             "md5_signature": "6ac1a7b15eb1bf4c8e3785c8baf5ccc3"
         },
         "2.2.1": {
@@ -182,6 +204,7 @@
             "file_size": "2437285",
             "file_size_display": "2.32 MB",
             "file_version": "2.2.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "a330d95a9c1e08e9313a2595f5244922"
         },
         "2.8.4.3": {
@@ -190,6 +213,7 @@
             "file_size": "3681438",
             "file_size_display": "3.51 MB",
             "file_version": "2.8.4.3",
+            "file_server_version": "1.19.4",
             "md5_signature": "f586ffd6b49d0f057a4bc84a7b540459"
         },
         "2.6.1": {
@@ -198,6 +222,7 @@
             "file_size": "2642029",
             "file_size_display": "2.52 MB",
             "file_version": "2.6.1",
+            "file_server_version": "1.16.3",
             "md5_signature": "cc026148c800daa0e2bd8b87a5795bb5"
         },
         "2.7.6": {
@@ -206,6 +231,7 @@
             "file_size": "2665722",
             "file_size_display": "2.54 MB",
             "file_version": "2.7.6",
+            "file_server_version": "1.16.5",
             "md5_signature": "b1e414694fd7dccb908f844c2b33c8ee"
         },
         "2.8.2": {
@@ -214,6 +240,7 @@
             "file_size": "3010198",
             "file_size_display": "2.87 MB",
             "file_version": "2.8.2",
+            "file_server_version": "1.16.5",
             "md5_signature": "654cf27a226394026f1b7b658a8a1d12"
         },
         "2.1": {
@@ -222,6 +249,7 @@
             "file_size": "2380379",
             "file_size_display": "2.27 MB",
             "file_version": "2.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "47c122ae402f22706d630ebfd1f20772"
         },
         "2.5": {
@@ -230,6 +258,7 @@
             "file_size": "2597061",
             "file_size_display": "2.48 MB",
             "file_version": "2.5",
+            "file_server_version": "1.15.2",
             "md5_signature": "c9fd13226bc5bfe75f685742a73e5377"
         },
         "2.4.6": {
@@ -238,6 +267,7 @@
             "file_size": "2543279",
             "file_size_display": "2.43 MB",
             "file_version": "2.4.6",
+            "file_server_version": "1.15.2",
             "md5_signature": "e01adbb667462d61e2216226e15a4a0a"
         },
         "2.1.2": {
@@ -246,6 +276,7 @@
             "file_size": "2400311",
             "file_size_display": "2.29 MB",
             "file_version": "2.1.2",
+            "file_server_version": "1.15.2",
             "md5_signature": "6c9556eb2ea2fe2abb6d52160caf7a4d"
         },
         "2.0.2": {
@@ -254,6 +285,7 @@
             "file_size": "2340688",
             "file_size_display": "2.23 MB",
             "file_version": "2.0.2",
+            "file_server_version": "1.15.2",
             "md5_signature": "3286b284f67ab07498e833b07d4196bc"
         },
         "2.4.4": {
@@ -262,6 +294,7 @@
             "file_size": "2532800",
             "file_size_display": "2.42 MB",
             "file_version": "2.4.4",
+            "file_server_version": "1.15.2",
             "md5_signature": "a4095a39c018e8a0047d50a8a24f0222"
         },
         "2.3": {
@@ -270,6 +303,7 @@
             "file_size": "2507455",
             "file_size_display": "2.39 MB",
             "file_version": "2.3",
+            "file_server_version": "1.15.2",
             "md5_signature": "6baa4315859b2b11c2a4506a1696f696"
         },
         "2.4.5": {
@@ -278,6 +312,7 @@
             "file_size": "2534805",
             "file_size_display": "2.42 MB",
             "file_version": "2.4.5",
+            "file_server_version": "1.15.2",
             "md5_signature": "22e13526b2d2b99c3e43ced29f3601bf"
         },
         "2.8.4.6": {
@@ -286,6 +321,7 @@
             "file_size": "3655228",
             "file_size_display": "3.49 MB",
             "file_version": "2.8.4.6",
+            "file_server_version": "1.19.4",
             "md5_signature": "cecd4d7fcb1830d5c7f70da8dc43a418"
         },
         "2.4": {
@@ -294,6 +330,7 @@
             "file_size": "2516153",
             "file_size_display": "2.4 MB",
             "file_version": "2.4",
+            "file_server_version": "1.15.2",
             "md5_signature": "3f855f645c7179f00527de33909c8c61"
         },
         "2.2": {
@@ -302,6 +339,7 @@
             "file_size": "2432995",
             "file_size_display": "2.32 MB",
             "file_version": "2.2",
+            "file_server_version": "1.15.2",
             "md5_signature": "ea125fc0344b300f2322b5cbd58cf5e1"
         },
         "2.8.4.7": {
@@ -310,6 +348,7 @@
             "file_size": "3647093",
             "file_size_display": "3.48 MB",
             "file_version": "2.8.4.7",
+            "file_server_version": "1.19.4",
             "md5_signature": "fdd404f5968966786569550ce8c7ef01"
         },
         "2.3.0.1": {
@@ -318,6 +357,7 @@
             "file_size": "2507551",
             "file_size_display": "2.39 MB",
             "file_version": "2.3.0.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "ba63a8723172610dacea2c4f2750ac92"
         },
         "2.4.1": {
@@ -326,6 +366,7 @@
             "file_size": "2516543",
             "file_size_display": "2.4 MB",
             "file_version": "2.4.1",
+            "file_server_version": "1.15.2",
             "md5_signature": "4c1a01334ca3bfa9bb841e8c831ad497"
         },
         "2.8.0": {
@@ -334,6 +375,7 @@
             "file_size": "2933092",
             "file_size_display": "2.8 MB",
             "file_version": "2.8.0",
+            "file_server_version": "1.16.5",
             "md5_signature": "dc496bd7d07f4ceb0359fca1724a6883"
         },
         "2.6": {
@@ -342,6 +384,7 @@
             "file_size": "2642051",
             "file_size_display": "2.52 MB",
             "file_version": "2.6",
+            "file_server_version": "1.16.3",
             "md5_signature": "a44b779ec7356e9dc9caad15eb1896e2"
         },
         "2.4.2": {
@@ -350,6 +393,7 @@
             "file_size": "2517273",
             "file_size_display": "2.4 MB",
             "file_version": "2.4.2",
+            "file_server_version": "1.15.2",
             "md5_signature": "feb0710a3f018328f3f9c3b695fb727d"
         },
         "2.1.3": {
@@ -358,6 +402,7 @@
             "file_size": "2400298",
             "file_size_display": "2.29 MB",
             "file_version": "2.1.3",
+            "file_server_version": "1.15.2",
             "md5_signature": "08f1e1990cae9f5f23b9a0da98508e00"
         },
         "2.8.3": {
@@ -366,6 +411,7 @@
             "file_size": "3010215",
             "file_size_display": "2.87 MB",
             "file_version": "2.8.3",
+            "file_server_version": "1.16.5",
             "md5_signature": "e441a8e94d2b891cbadc717961ab2a3a"
         },
         "2.1.4": {
@@ -374,6 +420,7 @@
             "file_size": "2403009",
             "file_size_display": "2.29 MB",
             "file_version": "2.1.4",
+            "file_server_version": "1.15.2",
             "md5_signature": "70bd999ddca03999830289351c06e5f8"
         },
         "2.0.3": {
@@ -382,6 +429,7 @@
             "file_size": "2340687",
             "file_size_display": "2.23 MB",
             "file_version": "2.0.3",
+            "file_server_version": "1.15.2",
             "md5_signature": "658dcab1d469ca1b707ffe136f5098f4"
         },
         "2.6.2": {
@@ -390,6 +438,7 @@
             "file_size": "2642047",
             "file_size_display": "2.52 MB",
             "file_version": "2.6.2",
+            "file_server_version": "1.16.3",
             "md5_signature": "3bff82120e52a38188aa6192763ed302"
         },
         "2.2.2": {
@@ -398,6 +447,7 @@
             "file_size": "2438372",
             "file_size_display": "2.33 MB",
             "file_version": "2.2.2",
+            "file_server_version": "1.15.2",
             "md5_signature": "a9475d50105cd68c3f31b0c6a718129d"
         },
         "2.7.4": {
@@ -406,6 +456,7 @@
             "file_size": "2665701",
             "file_size_display": "2.54 MB",
             "file_version": "2.7.4",
+            "file_server_version": "1.16.3",
             "md5_signature": "edbe4bac6a57d9f4f52bfd521cd11520"
         },
         "2.8.4.8": {
@@ -414,6 +465,7 @@
             "file_size": "3646682",
             "file_size_display": "3.48 MB",
             "file_version": "2.8.4.8",
+            "file_server_version": "1.19.4",
             "md5_signature": "4d417acb0bced2408169c61ae73e1c24"
         },
         "2.7.5": {
@@ -422,6 +474,7 @@
             "file_size": "2665819",
             "file_size_display": "2.54 MB",
             "file_version": "2.7.5",
+            "file_server_version": "1.16.5",
             "md5_signature": "a48be68facbc4b100e1a24298731548b"
         },
         "2.7": {
@@ -430,6 +483,7 @@
             "file_size": "2657110",
             "file_size_display": "2.53 MB",
             "file_version": "2.7",
+            "file_server_version": "1.16.3",
             "md5_signature": "78714d18338726e4bf7f240b7cc06202"
         },
         "2.8.1": {
@@ -438,6 +492,7 @@
             "file_size": "3010072",
             "file_size_display": "2.87 MB",
             "file_version": "2.8.1",
+            "file_server_version": "1.16.5",
             "md5_signature": "e2c554a4c94699ea6bf5dd13b7c1492a"
         },
         "2.7.2": {
@@ -446,6 +501,7 @@
             "file_size": "2666599",
             "file_size_display": "2.54 MB",
             "file_version": "2.7.2",
+            "file_server_version": "1.16.3",
             "md5_signature": "08a242a8247f7a496f5efbbef7dd319e"
         },
         "2.0.8": {
@@ -454,6 +510,7 @@
             "file_size": "2370249",
             "file_size_display": "2.26 MB",
             "file_version": "2.0.8",
+            "file_server_version": "1.15.2",
             "md5_signature": "891e0a013e7706f67f385fbd0fc9806a"
         }
     },
@@ -464,6 +521,7 @@
             "file_size": "2205096",
             "file_size_display": "2.1 MB",
             "file_version": "1.0",
+            "file_server_version": "1.19.4",
             "md5_signature": "f68d9605421fef0033bc689a2e602f75"
         }
     }
