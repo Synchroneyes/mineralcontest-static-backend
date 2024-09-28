@@ -1,3 +1,5 @@
 {
-  "api_workshop_list": "/maps.json"
+  "api_workshop_list": "/maps.json",
+  "api_files_list": "/files.json",
+  "api_messages_list": "/messages.json"
 }
