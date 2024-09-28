@@ -62,6 +62,7 @@ for folder_name in os.listdir(files_dir):
         for file in os.listdir(os.path.join(file_type, file_version)):
             if(file.endswith(".jar")):
                 file_size = os.stat(os.path.join(file_type, file_version, file)).st_size
+                with open(f"{files_dir}/{folder_name}/{file_version}/server_version", encoding='utf-8') as f: server_version = f.read().rstrip()
                 _file = {
                     "file_url": f"https://github.com/{author_name}/{repository_name}/releases/download/{folder_name}-{file_version}/{file}",
                     "file_name": f"{folder_name}-{file_version} {file.replace('.jar', '')}",
@@ -69,6 +70,7 @@ for folder_name in os.listdir(files_dir):
                     "file_size_display": get_size(os.path.join(file_type, file_version, file)),
                     "file_name": file,
                     "file_version": file_version,
+                    "file_server_version": server_version,
                     "md5_signature": hashlib.md5(open(os.path.join(file_type, file_version, file), "rb").read()).hexdigest()
                 }
                 files[folder_name][file_version] = _file
