@@ -1,6 +1,7 @@
 [
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_4_elements/mc_4_elements.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_4_elements/thumbnail.png",
         "map_name": "4 Elements",
         "map_description": "Map proposée par LeMiniDemon, avec l'aide de loulousnipe, Larsice_ et valou",
         "map_size": "22141021",
@@ -11,6 +12,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_maison_moderne/mc_maison_moderne.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_maison_moderne/thumbnail.png",
         "map_name": "Maison Moderne",
         "map_description": "Une carte regroupant 4 bases assez moderne, par DelityLuss",
         "map_size": "36821116",
@@ -21,6 +23,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_egypte/mc_egypte.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_egypte/thumbnail.png",
         "map_name": "Egypte",
         "map_description": "Oseras tu t'aventurer dans les limbes pharaoniques ?",
         "map_size": "24269372",
@@ -31,6 +34,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_mineral_house/mc_mineral_house.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_mineral_house/thumbnail.png",
         "map_name": "Mineral House",
         "map_description": "Carte mineral House, sympa à jouer",
         "map_size": "54369974",
@@ -41,6 +45,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_bouseland/mc_bouseland.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_bouseland/thumbnail.png",
         "map_name": "Bouseland",
         "map_description": "Une map de 4 équipes contenant des maisons... en bouse. Une map très simpliste pouvant rappeler à chacun ses débuts sur minecraft ! Par Synchroneyes",
         "map_size": "48435085",
@@ -51,6 +56,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_guerre_fastfood/mc_guerre_fastfood.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_guerre_fastfood/thumbnail.png",
         "map_name": "Guerre Fastfood",
         "map_description": "Une carte composée de 4 grands fast food différents, où irez-vous manger? Par DelityLuss",
         "map_size": "23150861",
@@ -61,6 +67,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_chinois_4t/mc_chinois_4t.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_chinois_4t/thumbnail.png",
         "map_name": "Chinois 4t",
         "map_description": "Map sur le thème de la chine. Par DelityLuss",
         "map_size": "46793163",
@@ -71,6 +78,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_fars_west/mc_fars_west.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_fars_west/thumbnail.png",
         "map_name": "Fars West",
         "map_description": "Une carte sous la thématique du Far West par DelityLuss",
         "map_size": "67775456",
@@ -81,6 +89,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_nether/mc_nether.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_nether/thumbnail.png",
         "map_name": "Nether",
         "map_description": "Map sur le thème du Nether par DelityLuss",
         "map_size": "54277904",
@@ -91,6 +100,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_Subnautica/mc_Subnautica.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_Subnautica/thumbnail.png",
         "map_name": "Subnautica",
         "map_description": "Activez les commands blocks pour profiter de la map",
         "map_size": "80686601",
@@ -101,6 +111,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_4_teams_map/mc_4_teams_map.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_4_teams_map/thumbnail.png",
         "map_name": "4 Teams Map",
         "map_description": "Une map pour jouer à 4 équipes par Vezzen",
         "map_size": "32349752",
@@ -111,6 +122,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_arbre_4team/mc_arbre_4team.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_arbre_4team/thumbnail.png",
         "map_name": "Arbre 4team",
         "map_description": "Une carte enfouie dans une jungle immense par DelityLuss",
         "map_size": "32333467",
@@ -121,6 +133,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_modern_v2/mc_modern_v2.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_modern_v2/thumbnail.png",
         "map_name": "Modern V2",
         "map_description": "Une carte assez moderne, par Dabdou_",
         "map_size": "57161908",
@@ -131,6 +144,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_volcano/mc_volcano.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_volcano/thumbnail.png",
         "map_name": "Volcano",
         "map_description": "Un gros Volcan, crée par Pjgjgjg",
         "map_size": "68969880",
@@ -141,6 +155,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_lune/mc_lune.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_lune/thumbnail.png",
         "map_name": "Lune",
         "map_description": "Afin de profiter de l'expérience complète de la map, activez les commands-blocks.",
         "map_size": "55496109",
@@ -151,6 +166,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_medieval_3_teams/mc_medieval_3_teams.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_medieval_3_teams/thumbnail.png",
         "map_name": "Medieval 3 Teams",
         "map_description": "Map sur le thème Médiéval. Cette carte ne comporte que 3 équipes - Par DelityLuss",
         "map_size": "22976463",
@@ -161,6 +177,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_chateau/mc_chateau.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_chateau/thumbnail.png",
         "map_name": "Chateau",
         "map_description": "Map sur le thème Médiéval. Par DelityLuss",
         "map_size": "18309999",
@@ -171,6 +188,7 @@
     },
     {
         "map_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_nuketown/mc_nuketown.zip",
+        "map_thumbnail": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/mc_nuketown/thumbnail.png",
         "map_name": "Nuketown",
         "map_description": "Call of duty BO3 best ? Par DelityLuss",
         "map_size": "19375299",
