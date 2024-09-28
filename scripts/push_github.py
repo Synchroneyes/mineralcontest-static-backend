@@ -62,7 +62,7 @@ def should_create_release(release_tag, current_md5):
         return not current_md5 in words
     except UnknownObjectException:
         # If the release doesn't exist, return False
-        return False
+        return True
     except Exception as e:
         print(f"An error occurred: {e}")
         return False
