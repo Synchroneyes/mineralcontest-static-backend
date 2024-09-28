@@ -43,6 +43,7 @@ for folder_name in os.listdir(maps_dir):
         map_file_name = f"{folder_name}.zip"
         _map = {
           "map_url": f"https://github.com/{author_name}/{repository_name}/releases/download/{folder_name}/{folder_name}.zip",
+          "map_thumbnail": f"https://github.com/{author_name}/{repository_name}/releases/download/{folder_name}/thumbnail.png",
           "map_name": map_name,
           "map_description": map_description,
           "map_size": str(map_size),
