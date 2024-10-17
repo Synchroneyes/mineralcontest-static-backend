@@ -1,14 +1,14 @@
 [
     {
-        "article_title": "Installer le plugin",
-        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/installer-le-plugin.md"
-    },
-    {
         "article_title": "Creer une carte",
         "article_url": "https://api.mc.monvoisin-kevin.fr/blog/creer-une-carte.md"
     },
     {
         "article_title": "Configurer le plugin",
         "article_url": "https://api.mc.monvoisin-kevin.fr/blog/configurer-le-plugin.md"
+    },
+    {
+        "article_title": "Installer le plugin",
+        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/installer-le-plugin.md"
     }
 ]
