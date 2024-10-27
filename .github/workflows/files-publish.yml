@@ -1,0 +1,48 @@
+name: Create Release for Files
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'files/**'
+
+permissions:
+  contents: write
+  issues: write
+  packages: write
+  pull-requests: write
+  deployments: write
+
+jobs:
+  files_release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup utilities
+      run: sudo apt-get install zip jq python3 -y && pip install PyGithub && echo "${{ secrets.TOKEN_GITHUB }}" > TOKEN
+
+    - name: Generate new JSON file
+      env:
+        TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+      run: |
+        python3 scripts/generate_json_file.py
+
+    - name: Create new releases and move payload file
+      env:
+        TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+      run: |
+        python3 scripts/push_files.py
+
+    - name: Commit and push files.json to the repository
+      continue-on-error: true
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add files.json
+        git commit -m "Updated files.json"
+        git push origin ${{ github.ref }}
