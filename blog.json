@@ -1,14 +1,20 @@
 [
     {
-        "article_title": "Creer une carte",
-        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/creer-une-carte.md"
+        "article_title": "Créer une carte Mineral Contest",
+        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/creer-une-carte.md",
+        "article_description": "Cette article explique comment créer simplement une carte MineralContest et comment l'intégrer dans le plugin.",
+        "article_author": "Synchroneyes"
     },
     {
-        "article_title": "Configurer le plugin",
-        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/configurer-le-plugin.md"
+        "article_title": "Configurer le plugin Mineral Contest",
+        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/configurer-le-plugin.md",
+        "article_description": "Cette article explique comment configurer le plugin Mineral Contest.",
+        "article_author": "Synchroneyes"
     },
     {
-        "article_title": "Installer le plugin",
-        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/installer-le-plugin.md"
+        "article_title": "Comment installer le plugin",
+        "article_url": "https://api.mc.monvoisin-kevin.fr/blog/installer-le-plugin.md",
+        "article_description": "Cette article explique comment installer le plugin Mineral Contest.",
+        "article_author": "Synchroneyes"
     }
 ]
