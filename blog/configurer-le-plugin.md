@@ -1,3 +1,10 @@
+---
+title: Configurer le plugin Mineral Contest
+description: Cette article explique comment configurer le plugin Mineral Contest.
+author: Synchroneyes
+
+---
+
 # Configuration du plugin Mineral Contest
 
 [[toc]]

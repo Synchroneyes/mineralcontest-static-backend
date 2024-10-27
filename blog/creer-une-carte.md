@@ -1,3 +1,8 @@
+---
+title: Créer une carte Mineral Contest
+description: Cette article explique comment créer simplement une carte MineralContest et comment l'intégrer dans le plugin.
+author: Synchroneyes
+---
 # Créer une carte Mineral Contest
 
 Alors comme ça, vous vous sentez créatif et vous souhaitez contribuer au plugin en créant votre monde? C'est un processus assez simple!

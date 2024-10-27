@@ -1,10 +1,16 @@
-# Installer le plugin Mineral Contest
+---
+title: Comment installer le plugin
+description: Cette article explique comment installer le plugin Mineral Contest.
+author: Synchroneyes
+---
+
+# Installer le plugin Mineral Contesta
 
 [[toc]]
 
 
 ### 1. Informations importantes
-Avant toute chose, il est très important de noter les éléments suivants: <br />
+Avant toute chose, il est très important de noter les éléments suivants: 
 **⚠️ Le plugin n'est pas compatible avec les hébergeurs gratuits tel que Aternos, Minestrator ou autre ⚠️**
 
 
@@ -12,13 +18,13 @@ Il est possible d'héberger un serveur sur son propre ordinateur, des tutoriels 
 
 ### 2. Pré-requis
 
-Dans un premier temps, il est important d'énoncer les différents pré-requis au bon fonctionnement du plugin. À l'heure actuelle, il est nécessaire de disposer d'un serveur **Spigot** en version **1.19**. <br />
+Dans un premier temps, il est important d'énoncer les différents pré-requis au bon fonctionnement du plugin. À l'heure actuelle, il est nécessaire de disposer d'un serveur **Spigot** en version **1.19**. 
 Sur le serveur où est héberger le serveur Minecraft, que ça soit votre propre ordinateur ou un serveur que vous louez, **Java 18** doit être installé. Si vous louez un serveur et que vous choisissez la version 1.19 de Spigot, vous n'avez pas à vous soucier de ce point.
 
 ### 3. Téléchargement
 
 Rendez-vous sur la page de téléchargement de fichiers présent [ici](/files/) et choisissez la version que vous désirez installer.
-Vous trouverez un tableau similaire à celui présent ci-dessous: <br />
+Vous trouverez un tableau similaire à celui présent ci-dessous: 
 
 | Type                                                  | Version                                                        | Type de serveur            | Version de serveur                                                                                      |
 |-------------------------------------------------------|----------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------|
@@ -35,7 +41,7 @@ Relancez ensuite le serveur.
 
 ### 5. Configuration
 
-Ce plugin a été pensé afin d'être pratique et simple d'installation. Il n'y a aucune configuration nécessaire pour son bon fonctionnement. <br />
+Ce plugin a été pensé afin d'être pratique et simple d'installation. Il n'y a aucune configuration nécessaire pour son bon fonctionnement. 
 
 Cependant, dans le cas où vous souhaitez le placer dans un serveur avec d'autres plugins et plusieurs mondes (non mineral-contest), il y a un paramètre à changer.
 
