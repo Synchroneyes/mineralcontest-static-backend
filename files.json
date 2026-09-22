@@ -147,11 +147,11 @@
         "2.8.5.4": {
             "file_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/plugins-2.8.5.4/MineralContest.jar",
             "file_name": "MineralContest.jar",
-            "file_size": "3737484",
+            "file_size": "3737483",
             "file_size_display": "3.56 MB",
             "file_version": "2.8.5.4",
             "file_server_version": "1.19.4",
-            "md5_signature": "c4a6b713ddf5d8cf6f0e70cc701066e2"
+            "md5_signature": "b891cecfd3fd7cdf50f8c8056ed2191c"
         },
         "2.1.2": {
             "file_url": "https://github.com/Synchroneyes/mineralcontest-static-backend/releases/download/plugins-2.1.2/MineralContest.jar",
